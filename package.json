@@ -1,0 +1,28 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "dating app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JodeciLe84/friendFinder.git"
+  },
+  "keywords": [
+    "dating",
+    "friends"
+  ],
+  "author": "Jodeci Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JodeciLe84/friendFinder/issues"
+  },
+  "homepage": "https://github.com/JodeciLe84/friendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {}
+}
