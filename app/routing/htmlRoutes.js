@@ -1,6 +1,6 @@
 var path = require('path')
 
-// Exporting Function 
+// Exporting Function
 
 module.exports = function(app) {
 

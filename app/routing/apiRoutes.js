@@ -39,7 +39,7 @@ module.exports = function (app) {
     }
     // console.log(bestMatch)
     //add last because it will match with itself
-    friendsArray.push(req.body)                   //------why does this not push int the actually friends array in the friends.js //--require ('fs)
+    friendsArray.push(req.body)                  //------why does this not push int the actually friends array in the friends.js //--require ('fs)
     res.json(bestMatch)
   })
 }
