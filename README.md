@@ -7,3 +7,4 @@ css
 seperate css, js
 fix pictures
 ask TA questions
+heroku 
